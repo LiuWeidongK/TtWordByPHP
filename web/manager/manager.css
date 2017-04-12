@@ -1,0 +1,38 @@
+body{
+    padding-top: 1%;
+}
+
+.main{
+    float: right;
+    margin-right: 5%;
+    display: flex;
+}
+
+.dropdown{
+    margin-right: 20%;
+}
+
+.back{
+    width: 80px;
+    align-self: center;
+    margin-left: 1%;
+}
+.content{
+    margin: 0 0 0 30% ;
+}
+
+.show{
+    margin:10% 0 0 20%;
+    height: 80px;
+    font-size: 50px;
+}
+
+.input{
+    margin:50px 0 0 0;
+    display: flex;
+}
+
+#inputE{
+    width: 50%;
+    margin: 0 20px 0 20px;
+}

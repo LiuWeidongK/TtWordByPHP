@@ -1,0 +1,69 @@
+body{
+    padding-top: 1%;
+}
+
+.top{
+    display: flex;
+}
+
+.count{
+    align-self: center;
+    margin-left: 32%;
+    font-size: 35px;
+}
+
+.right{
+    align-self: center;
+    margin-left: 43%;
+}
+
+.dropdown{
+    margin-left: 3%;
+}
+
+.main{
+    margin-left: 35%;
+}
+
+.content{
+
+    width: 100%;
+    height: 250px;
+}
+
+.word{
+    margin-bottom: 1%;
+}
+
+.first{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.follow{
+    display: none;
+    font-size: 45px;
+}
+
+.phonetic{
+    display: none;
+    font-size: 25px;
+    margin: 0 0 10px 5%;
+}
+
+.explains{
+    display: none;
+    font-size: 22px;
+    margin: 0 0 0 5%;
+}
+
+#voice{
+    margin-left: 50px;
+    align-self: center;
+}
+
+.btn-group{
+    margin-top: 10%;
+}
+
+

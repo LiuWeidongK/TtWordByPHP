@@ -1,0 +1,21 @@
+您的key：92609876
+您的keyfrom：TYNsWord
+
+CREATE TABLE `dictionary`.`unit1`(
+  `word` VARCHAR(30) NOT NULL,
+  `explains` VARCHAR(100),
+  `us-phonetic` VARCHAR(50),
+  `uk-phonetic` VARCHAR(50),
+  PRIMARY KEY (`word`)
+) CHARSET=utf8;
+
+
+D:\Tool\wamp64\www\phpstorm\Tyn'sWord\server\test.php:27:
+object(stdClass)[2]
+  public 'us-phonetic' => string 'ə'bændən' (length=11)     //美国
+  public 'phonetic' => string 'ə'bænd(ə)n' (length=13)
+  public 'uk-phonetic' => string 'ə'bænd(ə)n' (length=13)   //英国
+  public 'explains' =>
+    array (size=2)
+      0 => string 'n. 放任；狂热' (length=18)
+      1 => string 'vt. 遗弃；放弃' (length=19)
